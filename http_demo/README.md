@@ -1,6 +1,7 @@
-# Flutter Project 
+# Flutter Http Project 
 
-# Yapılan İşlemler
+Bu uygulama sayesinde internet üzerinde bulunan bir link üzerindeki json verileri parse etmeyi öğreneceksiniz.
 
-# 03/07/2019
- * pubspec.yaml dosyasına http servisleri ile çalışmak için gerekli kurulumlar yapıldı
+İşlem adımlarını daha detaylı görmek için commit'leri kontrol edebilirsiniz.
+
+Umarım faydalı olur.
